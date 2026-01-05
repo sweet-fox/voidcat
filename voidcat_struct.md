@@ -1,0 +1,52 @@
+ENGINE
+|
+mainservice
+||
+|physic
+|||
+||graviti
+|||
+||physics laws
+|||
+||collisions
+|||
+||liquid
+|||
+||movement
+||
+|graphic
+||
+|data
+|||
+||vectors
+|||
+||models
+|||
+||skeleton
+|||
+||file system
+|||
+||materials
+|||
+||and other data for all services
+|||
+||dataloader
+||
+supservice
+||
+|input
+||
+|audio
+||
+|animation
+||
+|net
+||
+|debugginglogs
+||
+|ui
+||
+|game systems
+||
+|memmanager
+||
